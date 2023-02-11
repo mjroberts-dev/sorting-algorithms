@@ -1,6 +1,7 @@
 
 # Bubble Sort
 #   + Simple
+#   + Stable
 #   - Inefficient
 
 # Best Runtime:     Ω(n)

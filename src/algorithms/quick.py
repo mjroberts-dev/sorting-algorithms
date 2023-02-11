@@ -1,6 +1,8 @@
 
 # Quick Sort
 
+# - Unstable
+
 # Best Runtime:     Ω(nlogn)
 # Avg. Runtime:     Θ(nlogn)
 # Worst Runtime:    O(n²)
